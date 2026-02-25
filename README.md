@@ -19,3 +19,6 @@ tack
 * **Platform:** Google AppSheet (No-code)
 * **Database:** Google Sheets
 * **Automation:** AppSheet Automation for PDF Generation
+## 🔗 Try the App
+You can access the live application using the link below:
+* **Live App Link:** [Click here to open the App](https://www.appsheet.com/start/648fee77-977b-477e-a3a9-c8989b1dd403?platform=desktop#appName=MYFOODBUSINESSERP-71766856-26-02-25&vss=H4sIAAAAAAAAA6WOOw7CMBBE7zK1T-AWUUQIGhANpjDxRrJI7Ch2Apblu7PhWwPlzOq9nYzJ0mUbdX2GPORPWlGCRFbYpZ4UpMLCuzj4VkEobHT3KCs3kYt-SAoF5ShegkgBMn_Jyz__C1jDyTaWhlk2oyx5gnyeMS7eEIpAN0Z9aum-maFSuGt8PQYyex7zy4hQueW1186svWFno9tA5QZAXbCbagEAAA==&view=Inventory)
