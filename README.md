@@ -7,7 +7,8 @@ This is a comprehensive ERP (Enterprise Resource Planning) system developed usin
 * **Sales Tracking:** Record daily sales with automated total calculation.
 * **Profit Analysis:** Calculate net profit per item and per sale.
 * **Supplier Management:** Maintain a database of suppliers and track outstanding debts.
-* **Automated Invoicing:** Generate PDF invoices automatically for every sale.
+* **Automated Invoicing:** Generate PDF invoices automatically for every sale.<img width="1351" height="579" alt="Screenshot 2026-02-26 034541" src="https://github.com/user-attachments/assets/c77555d9-8800-4956-ba1f-e3ec374f24fe" />
+
 * **Business Dashboard:** A centralized view to monitor both inventory and sales.
 
 ## Tech S<img widt<img width="1357" height="413" alt="Screenshot 2026-02-26 034617" src="https://github.com/user-attachments/assets/8a14015f-25c8-4f6c-b13e-34522626822a" />
